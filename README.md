@@ -11,3 +11,5 @@ tensoflow 1.4.1
 
 3，rnn
 
+4,mlp 使用BOW词袋模型作为模型特征输入
+
