@@ -12,6 +12,6 @@ tensoflow 1.4.1
 3，rnn
 
 4,mlp 使用BOW词袋模型作为模型特征输入,其模型整体结构如下：
-![Image text](https://raw.github.com/lplping/text-classfication-used-tensorflow/img/4.png)
+![Image text](https://github.com/lplping/text-classfication-used-tensorflow/img/4.png)
 
 
