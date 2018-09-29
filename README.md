@@ -9,7 +9,7 @@ tensoflow 1.4.1
 
 2、CNN  
 
-3，rnn
+3，rnn，其中包括LSTM与GRU，处理文件和cnn文件相同
 
 4,mlp 使用BOW词袋模型作为模型特征输入,其模型整体结构如下：
 ![image](https://github.com/lplping/text-classfication-used-tensorflow/blob/master/img/4.png)
